@@ -1,2 +1,2 @@
 # Investigadores-area-conocimiento-especialidad
-Workflow para identificar investigadores RENACYT especializados en una determinada área del conocimiento
+Workflow que tiene como objetivo identificar investigadores RENACYT especializados en una determinada área del conocimiento
